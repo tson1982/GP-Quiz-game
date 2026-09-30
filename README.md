@@ -20,4 +20,4 @@ The app does not contain third-party analytics, tracking tools, or external adve
 
 ## 5. Contact Us
 If you have any questions or suggestions about our Privacy Policy, please contact us at:
-- **Email:** tson1982@gmail.com
+- **Email:** filethaison@gmail.com
